@@ -1,0 +1,4 @@
+'registered user, underlimit', 1000, true,30
+'registered user, overlimit', 1000_000, true,500
+'unregistered user, underlimit', 1000, false, 10
+'unregistered user, overlimit', 90_000, false, 500
